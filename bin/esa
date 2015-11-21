@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'esa_cli'
+require 'esa_cli/version'
+require 'esa_cli/client'
+
+EsaCli::Client.start
